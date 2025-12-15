@@ -1,0 +1,47 @@
+### Unreal Engine / AirSim ###
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.user
+*.userprefs
+*.targets
+*.exe
+*.dll
+*.pdb
+*.app
+*.so
+*.dylib
+.vs/
+.idea/
+.vscode/
+
+# AirSim build & externals
+AirSim/Unity/
+AirSim/build/
+AirSim/external/
+AirSim/Unreal/Plugins/AirSim/Binaries/
+AirSim/Unreal/Plugins/AirSim/Intermediate/
+AirSim/Unreal/Plugins/AirSim/Saved/
+
+### Python ###
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.onnx
+*.csv
+*.tmp
+*.log
+
+### Unreal autosaves / backups ###
+Backup/
+Autosaves/
+# Python venv
+venv/
+__pycache__/
+*.pyc
